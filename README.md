@@ -11,5 +11,4 @@ Hence, I set up this repository to showcase some of my private projects.
 ```
 +-- README.md
 +-- 01-basic-sentiment-analysis
-+-- 02-scikit-image
 ```
